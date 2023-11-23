@@ -1,4 +1,7 @@
-1 - Problema de negócio
+![logo](https://github.com/Sanches2707/Fome-Zero/assets/140003889/6c8f45c8-d8b2-4fdb-b6f6-1165828beb83)
+
+
+# 1 - Problema de negócio
 
 A Cury Company é uma empresa de tecnologia que criou um aplicativo
 que conecta restaurantes, entregadores e pessoas.
@@ -45,13 +48,13 @@ Visão por Restaurantes:
 2. Top 10 melhores tipos de culinárias ?
 3. Top 10 piores tipos de culinárias ?
 
-2 - Premissas assumidas para a análise
+# 2 - Premissas assumidas para a análise
 
 1. Marketplace foi o modelo de negócio assumido.
 2. Os 3 principais visões do negócio foram: Visão transação de pedidos,
 visão restaurante e visão entregadores.
 
-3 - Estratégia da solução
+# 3 - Estratégia da solução
 
 O painel estratégico foi desenvolvido utilizando as métricas que refletem as 3 principais visões do modelo de negócio da empresa:
 
@@ -61,22 +64,22 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 3
 
 Dispomos na página inicial as informações gerais com opção de seleção de Filtro por país com as informações gerais do Marketplace, além de uma mapa interativo, em que é possível identificar a localização de cada restaurante com rank de cores e suas principais características (Valor prato para dois, Tipo de Culinária e Nota Média de avaliação)
 
-4 - Top 3 Insights de dados
+# 4 - Top 3 Insights de dados
 
 1. A sazonalidade da quantidade de pedidos é diária. Há uma variação de aproximadamente 10% do número de pedidos em dia sequenciais.
 2. As cidades do tipo Semi-Urban não possuem condições baixas de trânsito.
 3. As maiores variações no tempo de entrega, acontecem durante o clima ensolarado.
 
-5- O produto final do projeto
+# 5- O produto final do projeto
 
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
 O painel pode ser acessado através desse link:
 
-6- Conclusão
+# 6- Conclusão
 
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
 
-7 - Próximo passos
+# 7 - Próximo passos
 
 1. Reduzir o número de métricas.
 2. Dispor de features com as informações dos clientes (Sexo, Idade).
