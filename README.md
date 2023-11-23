@@ -17,7 +17,7 @@ Restaurantes, entregadores e pessoas compradoras. Para acompanhar o
 crescimento desses negócios, o CEO gostaria de ver as seguintes
 métricas de crescimento:
 
-### Visão Geral:
+## Visão Geral:
 
 1. Quantos países únicos estão registrados?
 2. Quantos restaurantes únicos estão registrados?
@@ -26,7 +26,7 @@ métricas de crescimento:
 5. Qual o total de tipos de culinária registrados?
 6. Mapa dos restaurantes com base nas notas.
 
-Visão por País:
+## Visão por País:
 
 1. Quantidade de Restaurantes registrados por país ?
 2. Quantidade de cidades registrados por país ?
@@ -34,7 +34,7 @@ Visão por País:
 4. Avaliação média por país ?
 5. Qual é a média de preço de um prato para duas pessoas por país ?
 
-Visão por Cidades:
+## Visão por Cidades:
 
 1. Top 10 cidades com mais restaurantes na Base de dados ?
 2. Top 7 cidades com Restaurantes com média de avaliação acima de 4 ?
@@ -42,7 +42,7 @@ Visão por Cidades:
 4. Quantos restaurantes têm avaliações abaixo de 2.5, em quais cidades eles estão ?
 5. (Top 10) Cidades com mais Restaurantes, com tipo de culinária distinta ? 
 
-Visão por Restaurantes:
+## Visão por Restaurantes:
 
 1. Top 10 Restaurantes ?
 2. Top 10 melhores tipos de culinárias ?
