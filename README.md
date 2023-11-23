@@ -17,7 +17,7 @@ Restaurantes, entregadores e pessoas compradoras. Para acompanhar o
 crescimento desses negócios, o CEO gostaria de ver as seguintes
 métricas de crescimento:
 
-Visão Geral:
+### Visão Geral:
 
 1. Quantos países únicos estão registrados?
 2. Quantos restaurantes únicos estão registrados?
