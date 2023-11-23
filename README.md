@@ -1,4 +1,7 @@
-![logo](https://github.com/Sanches2707/Fome-Zero/assets/140003889/767e60f1-53f3-467f-9382-dccb1ea9f059)
+<p align="center">
+  <img src= logo.png alt="Sublime's custom image"/>
+</p>
+
 # 1 - Problema de negócio
 
 A Cury Company é uma empresa de tecnologia que criou um aplicativo
